@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/behzad-rabiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="" height="33" width="43" /></a>
-<a href="https://www.instagram.com/behzad_rabiei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="" height="33" width="43" /></a>
-<a href="https://t.me/Behzad_Rabiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="" height="33" width="43" /></a>
+<a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="" height="33" width="43" /></a>
+<a href="https://www.instagram.com/behzad_rabiei/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="" height="33" width="43" /></a>
+<a href="https://t.me/Behzad_Rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="" height="33" width="43" /></a>
 
 
 <!--
