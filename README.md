@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:blue;">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/Behzad_Rabiei" target="blank"><img body {background-color: powderblue;}
 align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
