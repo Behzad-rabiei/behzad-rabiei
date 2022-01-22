@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei)](https://git.io/streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
