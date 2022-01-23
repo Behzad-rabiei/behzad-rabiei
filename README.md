@@ -45,8 +45,8 @@
 <p align = "center">
      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo">
 </p> 
-<hr/>
-### 🤝 Connect with me:
+
+## 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="" height="33" width="43" /></a>
 <a href="https://www.instagram.com/behzad_rabiei/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="" height="33" width="43" /></a>
