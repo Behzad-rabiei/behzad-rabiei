@@ -13,7 +13,9 @@
 ## 📈 GitHub Stats 
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27&line_height=0">
+    <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+
+<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27&line_height=0"> -->
 </p>
 
 <p align = "center">
