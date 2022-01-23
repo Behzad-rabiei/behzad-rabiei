@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- </p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+ -->
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/ritik307/behzad-rabiei"/> 
+ <img src="https://badges.pufler.dev/repos/behzad-rabiei"/>
+ <img src="https://badges.pufler.dev/commits/monthly/behzad-rabiei" />
+</p>
+
 ## 🔭 I'm currently working on
 - Financial social network 
 - E-Commerce store
@@ -7,8 +16,6 @@
 ## 🌱 I'm currently learning
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
 
 ## 📈 GitHub Stats 
 
@@ -21,12 +28,6 @@
      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo">
 </p> 
 
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo)](https://git.io/streak-stats)
- -->
 
 ## 💼 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
