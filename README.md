@@ -5,6 +5,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo)](https://git.io/streak-stats)
 
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
