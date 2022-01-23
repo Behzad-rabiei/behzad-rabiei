@@ -38,8 +38,10 @@
 
 ## 📈 GitHub Stats 
 <p align = "center">
-      <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27">
       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&theme=tokyonight&layout=compact">
+</p>
+<p align = "center">
+      <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
 <p align = "center">
