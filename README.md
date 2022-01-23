@@ -1,6 +1,4 @@
-### Hi there 👋
-<h3>Welcome to my page</h3>
-<p> I'm just a developer who loves his career</p>
+<img src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/header.png"/>
 
 <!-- </p align="center">
 <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
