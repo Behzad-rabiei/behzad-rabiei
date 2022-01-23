@@ -18,7 +18,7 @@
 </p>
 
 <p align = "center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo)](https://git.io/streak-stats)
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo">
 </p> 
 
 
