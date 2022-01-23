@@ -28,8 +28,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔭 I'm currently working on
-- <h3>Financial social network </h3>
-- <h3>E-Commerce store</h3>
+- <h4>Financial social network </h4>
+- <h4>E-Commerce store</h4>
 
 ## 🌱 I'm currently learning
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
