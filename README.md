@@ -38,14 +38,14 @@
 
 ## 📈 GitHub Stats 
 <p align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&theme=tokyonight&layout=compact">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&theme=dark&layout=compact">
 </p>
 <p align = "center">
-      <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27">
+      <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=dark&line_height=27">
 </p>
 
 <p align = "center">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=dark">
 </p> 
 
 ## 🤝 Connect with me:
