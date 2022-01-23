@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/header.png"/>
-
+<h3> Hi there I 'm Behzad</h3>
 <!-- </p align="center">
 <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
  -->
