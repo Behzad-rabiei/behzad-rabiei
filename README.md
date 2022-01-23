@@ -17,17 +17,17 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0&layout=compact" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&show_icons=true&theme=tokyonight&layout=compact" />
 </p> 
 
 <p align = "center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo)](https://git.io/streak-stats">
 </p> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight_duo)](https://git.io/streak-stats)
-
+ -->
 
 ## 💼 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
