@@ -13,11 +13,10 @@
 ## 📈 GitHub Stats 
 
 <p align = "center">
-    <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+      <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&theme=tokyonight">
 
 
-<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight&line_height=27&line_height=0"> -->
 </p>
 
 <p align = "center">
