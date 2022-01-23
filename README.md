@@ -32,8 +32,11 @@
 - <h4>E-Commerce store</h4>
 
 ## 🌱 I'm currently learning
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+- <h4>NestJS </h4>
+- <h4>TypesSript</h4>
+- <h4>ElasticSearch</h4>
+- <h4>Redis</h4>
+- <h4>RabitMQ</h4>
 
 ## 📈 GitHub Stats 
 <p align = "center">
