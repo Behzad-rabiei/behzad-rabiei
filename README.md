@@ -13,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
@@ -30,11 +31,11 @@
 - <h4>E-Commerce store</h4>
 
 ## 🌱 I'm currently learning
-- <h4>NestJS </h4>
-- <h4>TypesSript</h4>
-- <h4>ElasticSearch</h4>
 - <h4>Redis</h4>
 - <h4>RabitMQ</h4>
+- <h4>Docker</h4>
+- <h4>NestJS </h4>
+- <h4>ElasticSearch</h4>
 
 ## 📈 GitHub Stats 
 <p align = "center">
@@ -53,3 +54,8 @@
 <a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="" height="33" width="43" /></a>
 <a href="https://www.instagram.com/behzad_rabiei/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="" height="33" width="43" /></a>
 <a href="https://t.me/Behzad_Rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="" height="33" width="43" /></a>
+ 
+ 
+ 
+ 
+ // https://github.com/Ileriayo/markdown-badges
