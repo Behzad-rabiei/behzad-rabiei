@@ -3,11 +3,6 @@
 <!-- </p align="center">
 <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
  -->
-<p align="center">
- <img src="https://badges.pufler.dev/visits/behzad-rabiei/behzad-rabiei"/> 
- <img src="https://badges.pufler.dev/repos/behzad-rabiei"/>
- <img src="https://badges.pufler.dev/commits/monthly/behzad-rabiei" />
-</p>
 
 ## 💼 Technical Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
