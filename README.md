@@ -23,14 +23,11 @@
 
 ## 🔭 I'm currently working on
 - <h4>Financial social network </h4>
-- <h4>E-Commerce store</h4>
+- <h4>Streaming Server</h4>
 
 ## 🌱 I'm currently learning
-- <h4>Redis</h4>
 - <h4>RabitMQ</h4>
 - <h4>Docker</h4>
-- <h4>NestJS </h4>
-- <h4>ElasticSearch</h4>
 
 ## 📈 GitHub Stats 
 <p align = "center">
