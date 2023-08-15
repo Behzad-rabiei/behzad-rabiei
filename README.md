@@ -1,5 +1,5 @@
 ### Hi there 😃👋
-I'm an experienced Javascript engineer with a passion for exploring new technologies. Over the past 3 years, I've worked in diverse areas such as IOT, streaming services, and financial social networks. I'm currently collaborating with a talented international team on an open-source Web3 project. I love solving complex problems and believe in the power of teamwork to create innovative solutions.
+I am a Backend Engineer with over 4 years of expertise spanning IoT, streaming services, and financial social networks. Currently collaborating with a global team on an open-source Web3 project. Proficient in delivering robust backend solutions and fostering cross-functional collaboration.
 <hr/>
 <!-- </p align="center">
 <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
