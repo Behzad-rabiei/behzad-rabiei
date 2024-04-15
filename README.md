@@ -1,5 +1,5 @@
 ### Hi there 😃👋
-I am a Backend Engineer with over 4 years of expertise spanning IoT, streaming services, and financial social networks. Currently collaborating with a global team on an open-source Web3 project. Proficient in delivering robust backend solutions and fostering cross-functional collaboration.
+I am a Backend Engineer with over 5 years of expertise spanning IoT, streaming services, and financial social networks. Currently collaborating with a global team on an open-source Web3 project. Proficient in delivering robust backend solutions and fostering cross-functional collaboration.
 <hr/>
 <!-- </p align="center">
 <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
