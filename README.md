@@ -20,11 +20,19 @@
 </table>
 
 
-## 🤝 Connect with me:
+🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="" height="33" width="43" /></a>
-<a href="https://www.instagram.com/behzad_rabiei/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="" height="33" width="43" /></a>
-<a href="https://t.me/Behzad_Rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="" height="33" width="43" /></a>
- 
- 
+  <a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="LinkedIn" height="33" width="43" />
+  </a>
+  <a href="https://www.instagram.com/behzad_rabiei/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="Instagram" height="33" width="43" />
+  </a>
+  <a href="https://t.me/Behzad_Rabiei" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="Telegram" height="33" width="43" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="33" />
+  </a>
+</p>
  
