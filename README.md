@@ -3,7 +3,7 @@ I am a Backend Engineer with over 5 years of expertise spanning IoT, streaming s
 <hr/>
 
 ## 💼 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,js,mongodb,mysql,postgres,redis,jest,docker,githubactions,rabbitmq,solidity,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,mongodb,mysql,postgres,redis,jest,docker,githubactions,rabbitmq,solidity,&theme=dark)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 <p align = "center">
