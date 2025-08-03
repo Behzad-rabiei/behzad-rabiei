@@ -20,18 +20,8 @@
 </table>
 
 
-🤝 Connect with Me
+## 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/behzad_rabiei/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/Behzad_Rabiei" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/linkedin.svg" alt="" height="33" width="43" /></a>
+<a href="https://t.me/Behzad_Rabiei" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="" height="33" width="43" /></a>
+ 
