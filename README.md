@@ -1,5 +1,5 @@
-### Hi there 😃👋
- I’m currently at [TogetherCrew](https://www.togethercrew.com/), diving into Web3 worlds and crafting community-first analytics and backend magic!
+### Hey there 👋
+ I’m currently at [TogetherCrew](https://www.togethercrew.com/), diving into Web3 worlds and crafting community-first analytics and backend magic!🌐
 <hr/>
 
 ## 💼 Technical Skills
