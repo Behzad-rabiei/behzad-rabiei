@@ -6,17 +6,13 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,mongodb,mysql,postgres,redis,jest,docker,githubactions,rabbitmq,solidity,&theme=dark)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
-<p align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&theme=tokyonight&layout=compact">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-rabiei&theme=tokyonight&layout=compact" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight" /></td>
+  </tr>
+</table>
 
-<p align = "center">
-      <img  src = "https://github-readme-stats.vercel.app/api?username=behzad-rabiei&show_icons=true&theme=tokyonight">
-</p>
-
-<p align = "center">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=behzad-rabiei&theme=tokyonight">
-</p> 
 
 ## 🤝 Connect with me:
 <p align="left">
