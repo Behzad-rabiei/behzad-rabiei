@@ -1,5 +1,5 @@
 ### Hi there 😃👋
-I am a Backend Engineer with over 5 years of expertise spanning IoT, streaming services, and financial social networks. Currently collaborating with a global team on an open-source Web3 project. Proficient in delivering robust backend solutions and fostering cross-functional collaboration.
+ I’m currently at TogetherCrew(https://www.togethercrew.com/), diving into Web3 worlds and crafting community-first analytics and backend magic!
 <hr/>
 
 ## 💼 Technical Skills
