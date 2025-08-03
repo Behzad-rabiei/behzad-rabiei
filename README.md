@@ -1,26 +1,9 @@
 ### Hi there 😃👋
 I am a Backend Engineer with over 5 years of expertise spanning IoT, streaming services, and financial social networks. Currently collaborating with a global team on an open-source Web3 project. Proficient in delivering robust backend solutions and fostering cross-functional collaboration.
 <hr/>
-<!-- </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
- -->
 
 ## 💼 Technical Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,js,mongodb,mysql,postgres,redis,jest,docker,was,git,githubactions,lit,discordjs,rabbitmq&theme=dark)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 <p align = "center">
