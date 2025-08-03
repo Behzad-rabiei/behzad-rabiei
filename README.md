@@ -23,16 +23,19 @@
 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/behzad-rabiei" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin,&theme=dark" alt="LinkedIn" height="33" width="43" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/behzad-rabiei" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/behzad_rabiei/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/instagram.svg" alt="Instagram" height="33" width="43" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" alt="Instagram" />
   </a>
   <a href="https://t.me/Behzad_Rabiei" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Behzad-Rabiei/behzad-rabiei/main/images/telegram.svg" alt="Telegram" height="33" width="43" />
+    <img src="https://skillicons.dev/icons?i=telegram&theme=dark" width="40" alt="Telegram" />
   </a>
   <a href="behzad.rabiei.77@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="33" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark"  width="40" alt="Email"/>
   </a>
 </p>
  
